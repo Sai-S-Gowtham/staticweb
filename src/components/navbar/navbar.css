@@ -1,0 +1,53 @@
+body{
+margin:2px;
+background-color: #4a756e;
+}
+.navcontainer{
+height: 3rem;
+width:100%;
+background-color: #4a756e;
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+background-size: cover;
+align-items: center;
+
+
+}
+
+.homebtn{
+height:2.5rem;
+width:4rem;
+border-radius: 5px;
+background-color: #cab19b;
+color:#000000;
+margin: 2px;
+
+}
+.aboutbtn{
+height:2.5rem;
+width:4rem;
+border-radius: 5px;
+background-color: #cab19b;
+color:#000000;
+margin: 2px;
+
+}
+.contactbtn{
+    height:2.5rem;
+width:4rem;
+border-radius: 5px;
+background-color: #cab19b;
+color:#000000;
+margin: 2px;
+
+}
+.enquirybtn{
+    height:2.5rem;
+width:4rem;
+border-radius: 5px;
+background-color: #c70f0f;
+color:#000000;
+margin: 2px;
+
+}
